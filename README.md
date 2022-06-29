@@ -12,8 +12,7 @@ ComputerApplicationDesign
 ![image](https://user-images.githubusercontent.com/74190329/142432091-38a343f3-64aa-431f-9789-48b5121a2c74.png)
 
 # system architecture
-
-<img src=https://user-images.githubusercontent.com/58874807/144533684-40770b0c-2b00-4659-adf6-dca8815e715c.png width="60%"/>
+<img src=https://user-images.githubusercontent.com/58874807/176344505-b7f46519-858e-48c5-9354-78842aa14cb8.png width="60%"/>
 
 
 # 허 민
